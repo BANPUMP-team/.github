@@ -12,6 +12,9 @@ Use cases may vary but here are scenarios that require galvanic network isolatio
   - database replication from a high security network into a low security network;
   - files and backups transfer from a low security network into a high security network which is isolated by hardware;
   - collecting logs from a low security network into a high security network through galvanic isolation;
+  - streaming surveillance video from security cameras installed in a high security network, by uploading captured events over the internet (or continous streaming);
+
+The Bell-LaPadula and BIBA security models are fit for understanding data diodes.
 
 
 
